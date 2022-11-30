@@ -8,7 +8,9 @@ In the project directory, you can run:
 
 ### `npm run start_app`
 
-Runs the app and the server simultaneously
+Go into client and execute npm run start_app
+
+<!-- Runs the app and the server simultaneously -->
 
 ### `npm start`
 
